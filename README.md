@@ -1,16 +1,24 @@
-## Hi there 👋
+## 👋 About Me
 
-<!--
-**stvnmh/stvnmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi! I'm Steven.
 
-Here are some ideas to get you started:
+I'm a Computer Science student at De La Salle Lipa, learning data science first, then full-stack dev.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Excel](https://img.shields.io/badge/EXCEL-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
+![Git](https://img.shields.io/badge/GIT-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 📚 Currently Learning
+
+- Python for data analysis
+- Java and OOP
+- Git & GitHub
+
+## 🚀 Goals
+
+- Become a data scientist
+- Build a portfolio of real projects
+- Learn full-stack development
